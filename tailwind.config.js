@@ -5,7 +5,11 @@ export default {
     extend: {},
     screens :{
       
-      //responsive sizes
+      t1: " 680px ",
+      // => @media (min-width: 768px) 
+
+
+
 
     }
   },
