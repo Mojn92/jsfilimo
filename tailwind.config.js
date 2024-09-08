@@ -5,11 +5,11 @@ export default {
     extend: {},
     screens :{
       
-      t1: " 680px ",
-      // => @media (min-width: 680px) 
+      t1: "  768px ",
+      // => @media (min-width: 768px) 
 
-      t2: " 768px ",
-      // => @media (min-width:768px) 
+      t2: "1024px ",
+      // => @media (min-width:1024px) 
 
       t3: " 800px ",
       // => @media (min-width:800px) 
