@@ -8,3 +8,28 @@
         src:url(../Font/IRANSans-web.woff2);
     }
 }
+
+@layer components{
+
+.slider{
+ 
+@apply w-full h-screen 
+
+
+}
+
+.slides{
+    
+    @apply w-full h-screen relative flex
+}
+
+.slide{
+   @apply w-full h-full absolute text-[190px] left-0;
+
+}
+
+
+}
+
+
+
