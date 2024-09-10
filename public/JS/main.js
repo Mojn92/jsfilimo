@@ -55,3 +55,44 @@ prev.addEventListener("click", () => {
 
 // ----------------T1-Carouserl---------------------------
 
+
+// ----------------------Pagination-Js--------------------
+function Pagination() {
+    const next = document.querySelector('.next');
+    const prev = document.querySelector('.prev');
+    const pages = document.querySelectorAll('.spanp:not(.prev):not(.next)');
+    let currentPage = 0;
+
+    function updatePagination() {
+        pages.forEach((page, index) => {
+            
+                page.style.backgroundColor = "black";
+            if (index === currentPage) {
+              
+                page.style.backgroundColor = "white";
+
+            }
+        });
+    }
+
+    next.addEventListener('click', () => {
+        if (currentPage < pages.length - 1) {
+            currentPage++;
+            updatePagination();
+        }
+    });
+
+    prev.addEventListener('click', () => {
+        if (currentPage > 0) {
+            currentPage--;
+            updatePagination();
+        }
+    });
+
+    updatePagination(); // Initial call to set the active page
+}
+
+Pagination();
+
+
+// ----------------------Pagination-Js--------------------
