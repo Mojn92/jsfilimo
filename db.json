@@ -1,0 +1,81 @@
+{
+    "freeContent": [
+        {
+            "id": 1,
+            "title":"پایتخت",
+            "pic":"./public/Images/freecontent/free_movie_1.jpg"
+        },
+        {
+            "id": 2,
+            "title":"عقرب",
+            "pic":"./public/Images/freecontent/free_movie_2.jpg"
+        },
+        {
+            "id": 3,
+            "title":"ملکه گدایان",
+            "pic":"./public/Images/freecontent/free_movie_3.jpg"
+        },
+        {
+            "id": 4,
+            "title":"ویرانگر",
+            "pic":"./public/Images/freecontent/free_movie_4.jpg"
+        },
+        {
+            "id": 5,
+            "title":"شاهرگ",
+            "pic":"./public/Images/freecontent/free_movie_5.jpg"
+        },
+        {
+            "id": 6,
+            "title":"بالشها",
+            "pic":"./public/Images/freecontent/free_movie_6.jpg"
+        },
+        {
+            "id": 7,
+            "title":"حماسه دره شیلر",
+            "pic":"./public/Images/freecontent/free_movie_7.jpg"
+        },
+        {
+            "id": 8,
+            "title":"راز دشت تاران",
+            "pic":"./public/Images/freecontent/free_movie_8.jpg"
+        },
+        {
+            "id": 9,
+            "title":"چپ دست",
+            "pic":"./public/Images/freecontent/free_movie_9.jpg"
+        },
+        {
+            "id": 10,
+            "title":"شب های مافیا",
+            "pic":"./public/Images/freecontent/free_movie_10.jpg"
+        },
+        {
+            "id": 11,
+            "title":"مردم معمولی",
+            "pic":"./public/Images/freecontent/free_movie_11.jpg"
+        },
+        {
+            "id": 12,
+            "title":"دیرین دیرین",
+            "pic":"./public/Images/freecontent/free_movie_12.jpg"
+        },
+        {
+            "id": 13,
+            "title":"سال های دور از خانه",
+            "pic":"./public/Images/freecontent/free_movie_13.jpg"
+        },
+         {
+            "id": 14,
+            "title":"زهر عسل",
+            "pic":"./public/Images/freecontent/free_movie_14.jpg"
+        },
+         {
+            "id": 15,
+            "title":"پنجه در خاک",
+            "pic":"./public/Images/freecontent/free_movie_15.jpg"
+        }
+
+    ]
+    
+}

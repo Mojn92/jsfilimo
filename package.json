@@ -7,10 +7,14 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "tailwind": "npx tailwindcss -i ./public/CSS/input.css -o ./public/CSS/output.css --watch"
+    "tailwind": "npx tailwindcss -i ./public/CSS/input.css -o ./public/CSS/output.css --watch",
+    "server":"npx json-server db.json"
   },
   "devDependencies": {
     "tailwindcss": "^3.4.10",
     "vite": "^5.4.1"
+  },
+  "dependencies": {
+    "json-server": "^1.0.0-beta.2"
   }
 }

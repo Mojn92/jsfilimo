@@ -29,7 +29,23 @@
 }
 
 
-}
 
 
+ .infinite-carousel {
 
+     animation: slide 30s linear infinite;
+     will-change: transform;
+ }
+
+
+ @keyframes slide {
+     0% {
+         transform: translateX(0%);
+
+     }
+
+     100% {
+         transform: translateX(calc(-540px * 2));
+
+     }
+ }}
