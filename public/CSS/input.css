@@ -48,4 +48,26 @@
          transform: translateX(calc(-540px * 2));
 
      }
- }}
+ }
+
+.bg-div {
+    animation: bgDiv 5s ease-in infinite;
+    will-change: opacity;
+}
+
+@keyframes bgDiv {
+    0% {
+        opacity: 0;
+    }
+
+    50% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+
+}
