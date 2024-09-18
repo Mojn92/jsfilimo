@@ -8,5 +8,5 @@ heroImages;
 comments;
 freeMovie;
 questions;
-t1Slider;
+t1Slider
 

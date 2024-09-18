@@ -18,9 +18,9 @@ let heroImages = async () => {
     }, 5000);
 
 
-    changeHeroImage();
+
   } catch (error) {
-    console.error("error"); 
+    console.log("error"); 
   }
 };
 

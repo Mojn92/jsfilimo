@@ -23,7 +23,7 @@
     @apply w-full h-screen relative flex
 }
 
-.slide{
+.slide-min-0{
    @apply w-full h-full absolute text-[190px] left-0;
 
 }
