@@ -1,10 +1,9 @@
 // ----------------T1-Slider---------------------------
-
+function t1Slider(){
 let slide = document.querySelectorAll('.slide');
 let next = document.querySelector('.next');
 let prev = document.querySelector('.prev');
 const pages = document.querySelectorAll('.spanp');
-
 let counter = 0;
 slide.forEach((item, index) => {
     item.style.transform = `translatex(${index * 100}%)`
@@ -63,6 +62,9 @@ prev.addEventListener("click", () => {
 
 })
 
+}
+
+export default t1Slider();
 
 
 
