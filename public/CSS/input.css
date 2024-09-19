@@ -11,22 +11,22 @@
 
 @layer components{
 
-.slider{
- 
-@apply w-full h-screen 
+.slider {
+        @apply w-full overflow-hidden;
+    }
 
+  
 
-}
+    .slides {
+        @apply relative w-full h-full flex;
+    }
+    .slide {
+        @apply relative
+    }
 
-.slides{
-    
-    @apply w-full h-screen relative flex
-}
-
-.slide-min-0{
-   @apply w-full h-full absolute text-[190px] left-0;
-
-}
+    .pagination {
+        @apply block w-[10px] h-[10px] border-[#ffffff69] border-[2px] border-solid rounded-[50%] mr-[18px];
+    }
 
 
 
@@ -35,6 +35,12 @@
 
      animation: slide 30s linear infinite;
      will-change: transform;
+ }
+
+
+ .ininte-car2{
+        animation: slidecar2 30s linear infinite;
+        will-change: transform;
  }
 
 
@@ -49,6 +55,20 @@
 
      }
  }
+
+
+  @keyframes slidecar2 {
+      0% {
+          transform: translateX(0%);
+
+      }
+
+      100% {
+          transform: translateX(calc(-540px * 2));
+
+      }
+  }
+
 
 .bg-div {
     animation: bgDiv 5s ease-in infinite;
