@@ -100,22 +100,22 @@ function createSlider(
     }
 
     // min width 0 (button)
-    if (counter == 1) {
-      removeButton2.classList.add("!block");
-      removeButton1.classList.add("hidden");
-    } else {
-      removeButton2.classList.remove("!block");
-    }
-    if (counter == 0 || counter == 2 || counter == 3 || counter == 4) {
-      removeButton1.classList.add("!block");
-    } else {
-      removeButton1.classList.remove("!block");
-    }
-    if (counter > 4) {
-      removeButton1.parentElement.classList.add("!max-h-[70px]");
-    } else {
-      removeButton1.parentElement.classList.remove("!max-h-[70px]");
-    }
+    // if (counter == 1) {
+    //   removeButton2.classList.add("!block");
+    //   removeButton1.classList.add("hidden");
+    // } else {
+    //   removeButton2.classList.remove("!block");
+    // }
+    // if (counter == 0 || counter == 2 || counter == 3 || counter == 4) {
+    //   removeButton1.classList.add("!block");
+    // } else {
+    //   removeButton1.classList.remove("!block");
+    // }
+    // if (counter > 4) {
+    //   removeButton1.parentElement.classList.add("!max-h-[70px]");
+    // } else {
+    //   removeButton1.parentElement.classList.remove("!max-h-[70px]");
+    // }
   }
 
   // loop
@@ -151,6 +151,8 @@ function createSlider(
       });
     });
   }
+  
+  
 }
 
 export default createSlider

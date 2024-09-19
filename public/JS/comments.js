@@ -1,13 +1,13 @@
 // ----------------comments---------------------------
-
+import createSlider from "./t1Slider";
 let comments = async () => {
   let commentsItem = "";
   try {
-    let data = await fetch("http://localhost:3000/Comments");
+    let data = await fetch("../../db.json");
     let res = await data.json();
 
-    commentsItem = res.map((item) => {
-      return `<div class='w-[inherit] flex flex-col items-start relative'>
+    commentsItem = res.Comments.map((item) => {
+      return `<div class='slide flex flex-col items-start relative'>
     <div class='w-[335px] flex justify-between items-center mb-[16px]'>
       <div class='flex '>
         <div class='ml-[4px]'>
@@ -30,6 +30,14 @@ let comments = async () => {
     document
       .querySelector(".comments-slides")
       .insertAdjacentHTML("afterbegin", commentsItem.join(""));
+
+      createSlider(".comments-slider", {
+        SpaceBetween: 20,
+        DisableNavigation: true,
+        slidesPerView:3
+      });
+  
+      
   } catch (error) {
     console.log("Error");
   }

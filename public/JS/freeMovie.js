@@ -6,10 +6,10 @@ import createSlider from "./t1Slider";
 let freeMovie = async () => {
   let freeMovieItem = "";
   try {
-    let data = await fetch("http://localhost:3000/freeContent");
+    let data = await fetch("../../db.json");
     let res = await data.json();
 
-    freeMovieItem = res.map((item) => {
+    freeMovieItem = res.freeContent.map((item) => {
       return `<div class="slide relative">
       <div class="flex py-[4px] px-[8px] bg-[#1d2b1f] absolute top-[5px] right-[5px] rounded-[8px]">
       <span><svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">

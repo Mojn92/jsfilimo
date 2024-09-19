@@ -1,220 +1,13 @@
 {
-    "freeContent": [
-        {
-            "id": 1,
-            "title": "پایتخت",
-            "src": "./public/Images/freecontent/free_movie_1.jpg"
-        },
-        {
-            "id": 2,
-            "title": "عقرب",
-            "src": "./public/Images/freecontent/free_movie_2.jpg"
-        },
-        {
-            "id": 3,
-            "title": "ملکه گدایان",
-            "src": "./public/Images/freecontent/free_movie_3.jpg"
-        },
-        {
-            "id": 4,
-            "title": "ویرانگر",
-            "src": "./public/Images/freecontent/free_movie_4.jpg"
-        },
-        {
-            "id": 5,
-            "title": "شاهرگ",
-            "src": "./public/Images/freecontent/free_movie_5.jpg"
-        },
-        {
-            "id": 6,
-            "title": "بالشها",
-            "src": "./public/Images/freecontent/free_movie_6.jpg"
-        },
-        {
-            "id": 7,
-            "title": "حماسه دره شیلر",
-            "src": "./public/Images/freecontent/free_movie_7.jpg"
-        },
-        {
-            "id": 8,
-            "title": "راز دشت تاران",
-            "src": "./public/Images/freecontent/free_movie_8.jpg"
-        },
-        {
-            "id": 9,
-            "title": "چپ دست",
-            "src": "./public/Images/freecontent/free_movie_9.jpg"
-        },
-        {
-            "id": 10,
-            "title": "شب های مافیا",
-            "src": "./public/Images/freecontent/free_movie_10.jpg"
-        },
-        {
-            "id": 11,
-            "title": "مردم معمولی",
-            "src": "./public/Images/freecontent/free_movie_11.jpg"
-        },
-        {
-            "id": 12,
-            "title": "دیرین دیرین",
-            "src": "./public/Images/freecontent/free_movie_12.jpg"
-        },
-        {
-            "id": 13,
-            "title": "سال های دور از خانه",
-            "src": "./public/Images/freecontent/free_movie_13.jpg"
-        },
-        {
-            "id": 14,
-            "title": "زهر عسل",
-            "src": "./public/Images/freecontent/free_movie_14.jpg"
-        },
-        {
-            "id": 15,
-            "title": "پنجه در خاک",
-            "src": "./public/Images/freecontent/free_movie_15.jpg"
-        }
-    ],
-    "Comments": [
-        {
-            "id": 1,
-            "name": "سالار",
-            "message": "همه نصب کنید. رایگان هم داره، با پول هم داره. همه ی فیلم های :کمدی، اکشن، درام،عاشقانه،ترسناک و کارتون توش موجود هست . پر از هیجان و شگفتی😎🥸🤓🤠👍🏻👍🏻👍🏻"
-        },
-        {
-            "id": 2,
-            "name": "ابوالفضل خورسی",
-            "message": "بسیار خوب و مناسب برای فیلم دیدن و انجام کارهای روزمره، نسبت به سایر اندروید باکس‌ها و نسبت به قیمتش خیلی مناسبه"
-        },
-        {
-            "id": 3,
-            "name": "محسن مرصاد",
-            "message": "یعنی حرف نداره فقط کافیه اشتراک شو فعال کنی میتونی کل فیل و سریالدهارو راحت تماشا کنی"
-        },
-        {
-            "id": 4,
-            "name": "Manriver",
-            "message": "فیلیمو راضیوم ازت😍😍"
-        },
-        {
-            "id": 5,
-            "name": "نیکا کاوند ",
-            "message": "واقعا عالیه.😚 خیلی برنامه عالیه😻😻 من ۵ سال این برنانه رو دارم...🌹 درسته یکم اشتراکاش گرونه ولی هنوزم خوبه.💙❤ ولی اینترنتش نیمبهاست🌹🌹😻 ممنون از برنامه ی خوبتون🌹❤"
-        },
-        {
-            "id": 6,
-            "name": "ستایش",
-            "message": "عالیییبیبیییییییی پیشنهاد میکنم نصب کنید فیلم های رایگان هم داره پس نصب کنید 🤗🤗"
-        },
-        {
-            "id": 7,
-            "name": "fatemehfarahmandfar6",
-            "message": "فیلیمو عالی من از فیلیمو رازی هستم❤❤😍🤩😘❤🍓"
-        },
-        {
-            "id": 8,
-            "name": "F.A",
-            "message": "خیلی خوبه تازه فیلم های 2021 رو هم با دوبله داره "
-        },
-        {
-            "id": 9,
-            "name": "mostafa",
-            "message": "از وقتی فیلیمو رو نصب کردم دیگه تلوزیون نگاه نمیکنم"
-        },
-        {
-            "id": 10,
-            "name": "احسان",
-            "message": "محشره 👌 واقعا دمتون گرم ، خب چیزی که باید به گرونی اشتراک بگم اینه که گرونه اما خب با این همه دوبله ، زحمت ، ساخت فیلم و سریال های ویژه خب قیمتش چیزی نیست ولی خب دیگه چیزی نمیشه گفت "
-        },
-        {
-            "id": 11,
-            "name": "RAMTIN",
-            "message": "عالیه خیلی فیلم و سریال های قشنگی داره "
-        },
-        {
-            "id": 12,
-            "name": "aref",
-            "message": "خیلی برنامه خوبی هست و خیلی سریال متنوع داره"
-        },
-        {
-            "id": 13,
-            "name": "TahaDamghani",
-            "message": "عالی، می‌تونی هر فیلمی رو با دوبله و زیرنویس فارسی تماشا کنی. تازه فیلیمو کیفیت پخش آنلاین رو با سرعت اینترنت تنظیم می‌کنه تا بدون توقف فیلم ببینی. دسته‌بندی هم داره و قیمت اشتراکش نسبت به برنامه‌های مشابه خارجی خیلی ارزونتره و ساخت حساب کاربری هم رایگانه. پیشنهاد می‌کنم حتما این برنامه رو نصب کنید."
-        },
-        {
-            "id": 14,
-            "name": "سایمان",
-            "message": "این برنامه خیلی خوبه من داخل این فیلم نگاه می کنم کلی مامانم فیلم های بزرگسالان نگاه می‌کنه "
-        },
-        {
-            "id": 15,
-            "name": "آوا",
-            "message": "خیلی خوب بود من راحت فیِلمی را که دوست داشتمو دانلود میکردم وغیر از دانلود راحت میتونستم فیلموببینم درهرحال راضیم ازاین برنامه."
-        }
-    ],
-    "heroImage": [
-    {
-      "id": 1,
-      "src": "./public/Images/heroImages/hero_img_1.jpeg"
-    },
-    {
-      "id": 2,
-      "src": "./public/Images/heroImages/hero_img_2.jpeg"
-    },
-    {
-      "id": 3,
-      "src": "./public/Images/heroImages/hero_img_3.jpeg"
-    },
-    {
-      "id": 4,
-      "src": "./public/Images/heroImages/hero_img_4.jpeg"
-    },
-    {
-      "id": 5,
-      "src": "./public/Images/heroImages/hero_img_5.jpeg"
-    },
-    {
-      "id": 6,
-      "src": "./public/Images/heroImages/hero_img_6.jpeg"
-    },
-    {
-      "id": 7,
-      "src": "./public/Images/heroImages/hero_img_7.jpeg"
-    },
-    {
-      "id": 8,
-      "src": "./public/Images/heroImages/hero_img_8.jpeg"
-    },
-    {
-      "id": 9,
-      "src": "./public/Images/heroImages/hero_img_9.jpeg"
-    },
-    {
-      "id": 10,
-      "src": "./public/Images/heroImages/hero_img_10.jpeg"
-    },
-    {
-      "id": 11,
-      "src": "./public/Images/heroImages/hero_img_4.jpeg"
-    },
-    {
-      "id": 12,
-      "src": "./public/Images/heroImages/hero_img_12.jpeg"
-    },
-    {
-      "id": 13,
-      "src": "./public/Images/heroImages/hero_img_13.jpeg"
-    }
-  ],
+    
   "bestOf": {
     "bestOfMovie": [
       {
         "id": 1,
-        "poster": "./public/image/bestof_movie_poster_1.jpg",
-        "bg": "./public/image/bestof_movie_bg_1.jpg",
-        "logo": "./public/image/bestof_movie_logo_1.png",
-        "exclusive": "./public/image/exclusive-fa.svg",
+        "poster": "./public/Images/bestof_movie_poster_1.jpg",
+        "bg": "./public/Images/bestof_movie_bg_1.jpg",
+        "logo": "./public/Images/bestof_movie_logo_1.png",
+        "exclusive": "./public/Images/exclusive-fa.svg",
         "title": "بی بدن",
         "director": "مرتضی علیزاده",
         "IMDB": "5.7",
@@ -227,9 +20,9 @@
       },
       {
         "id": 2,
-        "poster": "./public/image/bestof_movie_poster_2.jpg",
-        "bg": "./public/image/bestof_movie_bg_2.jpg",
-        "logo": "./public/image/bestof_movie_logo_2.png",
+        "poster": "./public/Images/bestof_movie_poster_2.jpg",
+        "bg": "./public/Images/bestof_movie_bg_2.jpg",
+        "logo": "./public/Images/bestof_movie_logo_2.png",
         "exclusive": "",
         "title": "هاوایی",
         "director": "بهمن گودرزی",
@@ -246,10 +39,10 @@
     "bestOfSeries": [
       {
         "id": 1,
-        "poster": "./public/image/bestof_series_poster_1.jpg",
-        "logo": "./public/image/bestof_series_logo_1.png",
-        "bg": "./public/image/bestof_series_bg_1.jpg",
-        "exclusive": "./public/image/exclusive-fa.svg",
+        "poster": "./public/Images/bestof_series_poster_1.jpg",
+        "logo": "./public/Images/bestof_series_logo_1.png",
+        "bg": "./public/Images/bestof_series_bg_1.jpg",
+        "exclusive": "./public/Images/exclusive-fa.svg",
         "title": "زخم کاری: انتقام",
         "director": "محمدحسین مهدویان",
         "genre": [
@@ -259,42 +52,42 @@
         "description": "مالک آخرین برگ بازیش را رو می کند. او فاتحانه نشسته بر سریر خون، پا در مسیری می گذارد که هنوز بوی خون از آن به مشام می رسد.",
         "Episodes": [
           {
-            "image": "./public/image/bestof_series_1_S2E1.webp",
+            "image": "./public/Images/bestof_series_1_S2E1.webp",
             "title": "فصل 2 قسمت 1",
             "free": false
           },
           {
-            "image": "./public/image/bestof_series_1_S2E2.webp",
+            "image": "./public/Images/bestof_series_1_S2E2.webp",
             "title": "فصل 2 قسمت 2",
             "free": false
           },
           {
-            "image": "./public/image/bestof_series_1_S2E3.webp",
+            "image": "./public/Images/bestof_series_1_S2E3.webp",
             "title": "فصل 2 قسمت 3",
             "free": false
           },
           {
-            "image": "./public/image/bestof_series_1_S2E4.webp",
+            "image": "./public/Images/bestof_series_1_S2E4.webp",
             "title": "فصل 2 قسمت 4",
             "free": false
           },
           {
-            "image": "./public/image/bestof_series_1_S2E5.webp",
+            "image": "./public/Images/bestof_series_1_S2E5.webp",
             "title": "فصل 2 قسمت 5",
             "free": false
           },
           {
-            "image": "./public/image/bestof_series_1_S2E6.webp",
+            "image": "./public/Images/bestof_series_1_S2E6.webp",
             "title": "فصل 2 قسمت 6",
             "free": false
           },
           {
-            "image": "./public/image/bestof_series_1_S2E7.webp",
+            "image": "./public/Images/bestof_series_1_S2E7.webp",
             "title": "فصل 2 قسمت 7",
             "free": false
           },
           {
-            "image": "./public/image/bestof_series_1_S2E8.webp",
+            "image": "./public/Images/bestof_series_1_S2E8.webp",
             "title": "فصل 2 قسمت 8",
             "free": false
           }
@@ -302,9 +95,9 @@
       },
       {
         "id": 2,
-        "poster": "./public/image/bestof_series_poster_2.jpg",
-        "logo": "./public/image/bestof_series_logo_2.png",
-        "bg": "./public/image/bestof_series_bg_2.jpg",
+        "poster": "./public/Images/bestof_series_poster_2.jpg",
+        "logo": "./public/Images/bestof_series_logo_2.png",
+        "bg": "./public/Images/bestof_series_bg_2.jpg",
         "exclusive": "",
         "title": "سرگیجه",
         "director": "محمد حاتمی",
@@ -314,18 +107,18 @@
         "description": "این قسمت همه چی بدجوری خط رو خط و قاطی پاتیه. ما گل های خندانیم، فرزندان ایرانیم. هوهو چی چی، هوهو چی چی. مردونه و مشهدی زد، غوغا کردی آذرخش مشهدی. شنیدم ازدواج کردی بی معرفت؟",
         "Episodes": [
           {
-            "image": "./public/image/bestof_series_2_S1E1.webp",
+            "image": "./public/Images/bestof_series_2_S1E1.webp",
             "title": "فصل 1 قسمت 1",
             "free": true,
             "time": "1:8:56"
           },
           {
-            "image": "./public/image/bestof_series_2_S1E2.webp",
+            "image": "./public/Images/bestof_series_2_S1E2.webp",
             "title": "فصل 1 قسمت 2",
             "free": false
           },
           {
-            "image": "./public/image/bestof_series_2_S1E3.webp",
+            "image": "./public/Images/bestof_series_2_S1E3.webp",
             "title": "فصل 1 قسمت 3",
             "free": false
           }
@@ -333,10 +126,10 @@
       },
       {
         "id": 3,
-        "poster": "./public/image/bestof_series_poster_3.jpg",
+        "poster": "./public/Images/bestof_series_poster_3.jpg",
         "logo": "",
-        "bg": "./public/image/bestof_series_bg_3.jpg",
-        "exclusive": "./public/image/exclusive-fa.svg",
+        "bg": "./public/Images/bestof_series_bg_3.jpg",
+        "exclusive": "./public/Images/exclusive-fa.svg",
         "title": "لالایی",
         "director": "احمد درویشعلی پور",
         "genre": [
@@ -345,23 +138,23 @@
         "description": "مسعود بعد از ماجراهایی که رقم می خورد، در می یابد که تنها راه رسیدن به اسرار صندوقچه ای که مادرش به خاله گلشن سپرده، پاداش حکمت است...",
         "Episodes": [
           {
-            "image": "./public/image/bestof_series_3_S1E1.webp",
+            "image": "./public/Images/bestof_series_3_S1E1.webp",
             "title": "فصل 1 قسمت 1",
             "free": true,
             "time": "0:47:22"
           },
           {
-            "image": "./public/image/bestof_series_3_S1E2.webp",
+            "image": "./public/Images/bestof_series_3_S1E2.webp",
             "title": "فصل 1 قسمت 2",
             "free": false
           },
           {
-            "image": "./public/image/bestof_series_3_S1E3.webp",
+            "image": "./public/Images/bestof_series_3_S1E3.webp",
             "title": "فصل 1 قسمت 3",
             "free": false
           },
           {
-            "image": "./public/image/bestof_series_3_S1E4.webp",
+            "image": "./public/Images/bestof_series_3_S1E4.webp",
             "title": "فصل 1 قسمت 4",
             "free": false
           }
@@ -369,10 +162,10 @@
       },
       {
         "id": 4,
-        "poster": "./public/image/bestof_series_poster_4.jpg",
-        "logo": "./public/image/bestof_series_logo_4.png",
-        "bg": "./public/image/bestof_series_bg_4.jpg",
-        "exclusive": "./public/image/exclusive-fa.svg",
+        "poster": "./public/Images/bestof_series_poster_4.jpg",
+        "logo": "./public/Images/bestof_series_logo_4.png",
+        "bg": "./public/Images/bestof_series_bg_4.jpg",
+        "exclusive": "./public/Images/exclusive-fa.svg",
         "title": "جوکر 2",
         "director": " احسان علیخانی",
         "genre": [
@@ -382,28 +175,28 @@
         "description": "مسعود روشن پژوه وارد محله جوکر 2 شده تا با مسابقات خنده دارش بتونه کارت زرد یا حتی قرمز برای شرکت کنندگان این فصل داشته باشه.شدت هیجان و خنده توی این قسمت جوکر 2 اونقدر بالا رفته که تاب و تحمل شرکت کنندگان رو ازشون میگیره و نفسشون بند میاد! آیا این قسمت تلفات جانی به بار میاره؟",
         "Episodes": [
           {
-            "image": "./public/image/bestof_series_4_S1E1.webp",
+            "image": "./public/Images/bestof_series_4_S1E1.webp",
             "title": "فصل 1 قسمت 1",
             "free": true,
             "time": "1:50:42"
           },
           {
-            "image": "./public/image/bestof_series_4_S1E2.webp",
+            "image": "./public/Images/bestof_series_4_S1E2.webp",
             "title": "فصل 1 قسمت 2",
             "free": false
           },
           {
-            "image": "./public/image/bestof_series_4_S1E3.webp",
+            "image": "./public/Images/bestof_series_4_S1E3.webp",
             "title": "فصل 1 قسمت 3",
             "free": false
           },
           {
-            "image": "./public/image/bestof_series_4_S1E4.webp",
+            "image": "./public/Images/bestof_series_4_S1E4.webp",
             "title": "فصل 1 قسمت 4",
             "free": false
           },
           {
-            "image": "./public/image/bestof_series_4_S1E5.webp",
+            "image": "./public/Images/bestof_series_4_S1E5.webp",
             "title": "فصل 1 قسمت 5",
             "free": false
           }
@@ -411,10 +204,10 @@
       },
       {
         "id": 5,
-        "poster": "./public/image/bestof_series_poster_5.jpg",
-        "logo": "./public/image/bestof_series_logo_5.png",
-        "bg": "./public/image/bestof_series_bg_5.jpg",
-        "exclusive": "./public/image/exclusive-fa.svg",
+        "poster": "./public/Images/bestof_series_poster_5.jpg",
+        "logo": "./public/Images/bestof_series_logo_5.png",
+        "bg": "./public/Images/bestof_series_bg_5.jpg",
+        "exclusive": "./public/Images/exclusive-fa.svg",
         "title": "گل یا پوچ",
         "director": "",
         "genre": [
@@ -423,43 +216,43 @@
         "description": "اگه یک قدمی شکست هم بودی، لبخند بزن تا حریفت به پیروزیش شک کنه!",
         "Episodes": [
           {
-            "image": "./public/image/bestof_series_5_S1E1.webp",
+            "image": "./public/Images/bestof_series_5_S1E1.webp",
             "title": "فصل 1 قسمت 1",
             "free": true,
             "time": "1:2:34"
           },
           {
-            "image": "./public/image/bestof_series_5_S1E2.webp",
+            "image": "./public/Images/bestof_series_5_S1E2.webp",
             "title": "فصل 1 قسمت 2",
             "free": false
           },
           {
-            "image": "./public/image/bestof_series_5_S1E3.webp",
+            "image": "./public/Images/bestof_series_5_S1E3.webp",
             "title": "فصل 1 قسمت 3",
             "free": false
           },
           {
-            "image": "./public/image/bestof_series_5_S1E4.webp",
+            "image": "./public/Images/bestof_series_5_S1E4.webp",
             "title": "فصل 1 قسمت 4",
             "free": false
           },
           {
-            "image": "./public/image/bestof_series_5_S1E5.webp",
+            "image": "./public/Images/bestof_series_5_S1E5.webp",
             "title": "فصل 1 قسمت 5",
             "free": false
           },
           {
-            "image": "./public/image/bestof_series_5_S1E6.webp",
+            "image": "./public/Images/bestof_series_5_S1E6.webp",
             "title": "فصل 1 قسمت 6",
             "free": false
           },
           {
-            "image": "./public/image/bestof_series_5_S1E7.webp",
+            "image": "./public/Images/bestof_series_5_S1E7.webp",
             "title": "فصل 1 قسمت 7",
             "free": false
           },
           {
-            "image": "./public/image/bestof_series_5_S1E8.webp",
+            "image": "./public/Images/bestof_series_5_S1E8.webp",
             "title": "فصل 1 قسمت 8",
             "free": false
           }
@@ -467,9 +260,9 @@
       },
       {
         "id": 6,
-        "poster": "./public/image/bestof_series_poster_6.jpg",
-        "logo": "./public/image/bestof_series_logo_6.png",
-        "bg": "./public/image/bestof_series_bg_6.jpg",
+        "poster": "./public/Images/bestof_series_poster_6.jpg",
+        "logo": "./public/Images/bestof_series_logo_6.png",
+        "bg": "./public/Images/bestof_series_bg_6.jpg",
         "exclusive": "",
         "title": "کارمانی",
         "director": " محمدرضا رضائیان",
@@ -479,43 +272,43 @@
         "description": "کارمانی اینجاست تا سه شنبه هر هفته ساعت 8 صبح بستر مناسبی برای سرمایه پذیران و سرمایه گذاران ایجاد کنه تا کنار هم به موفقیت و رشد برسن.",
         "Episodes": [
           {
-            "image": "./public/image/bestof_series_6_S1E1.webp",
+            "image": "./public/Images/bestof_series_6_S1E1.webp",
             "title": "فصل 1 قسمت 1",
             "free": true,
             "time": "0:47:40"
           },
           {
-            "image": "./public/image/bestof_series_6_S1E2.webp",
+            "image": "./public/Images/bestof_series_6_S1E2.webp",
             "title": "فصل 1 قسمت 2",
             "free": false
           },
           {
-            "image": "./public/image/bestof_series_6_S1E3.webp",
+            "image": "./public/Images/bestof_series_6_S1E3.webp",
             "title": "فصل 1 قسمت 3",
             "free": false
           },
           {
-            "image": "./public/image/bestof_series_6_S1E4.webp",
+            "image": "./public/Images/bestof_series_6_S1E4.webp",
             "title": "فصل 1 قسمت 4",
             "free": false
           },
           {
-            "image": "./public/image/bestof_series_6_S1E5.webp",
+            "image": "./public/Images/bestof_series_6_S1E5.webp",
             "title": "فصل 1 قسمت 5",
             "free": false
           },
           {
-            "image": "./public/image/bestof_series_6_S1E6.webp",
+            "image": "./public/Images/bestof_series_6_S1E6.webp",
             "title": "فصل 1 قسمت 6",
             "free": false
           },
           {
-            "image": "./public/image/bestof_series_6_S1E7.webp",
+            "image": "./public/Images/bestof_series_6_S1E7.webp",
             "title": "فصل 1 قسمت 7",
             "free": false
           },
           {
-            "image": "./public/image/bestof_series_6_S1E8.webp",
+            "image": "./public/Images/bestof_series_6_S1E8.webp",
             "title": "فصل 1 قسمت 8",
             "free": false
           }
