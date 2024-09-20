@@ -72,7 +72,7 @@ let best = async () => {
           <div class="absolute bg-[rgba(0,0,0,0.4)] backdrop-blur-[5px] inset-[-4px]"></div>
           <span
             class="absolute rounded-[50%] bg-[rgba(0,0,0,0.4)] backdrop-blur-[14px] w-[48px] h-[48px] flex items-center justify-center left-[calc(50%-24px)] top-[calc(50%-24px)]">
-            <img src="./public/image/icon-lock.png" alt="" class="w-[50%]">
+            <img src="../Images/icon-lock.png" alt="" class="w-[50%]">
           </span>
         </div>
         <div class="text-[11px] text-[#f6f6f6] leading-[15px] font-[700]">${itemEpisode.title}</div>
