@@ -22,6 +22,9 @@ let freeMovie = async () => {
       </div>`;
     });
 
+    console.log("1");
+    
+
     document
       .querySelector(".free-slides")
       .insertAdjacentHTML("afterbegin", freeMovieItem.join(""));
@@ -33,7 +36,7 @@ let freeMovie = async () => {
         slidesPerView:6
       });
   } catch (error) {
-    console.log("Error");
+    console.log(error);
   }
 };
 
