@@ -70,7 +70,7 @@ let best = async () => {
           <div class="absolute bg-[rgba(0,0,0,0.4)] backdrop-blur-[5px] inset-[-4px]"></div>
           <span
             class="absolute rounded-[50%] bg-[rgba(0,0,0,0.4)] backdrop-blur-[14px] w-[48px] h-[48px] flex items-center justify-center left-[calc(50%-24px)] top-[calc(50%-24px)]">
-            <img src="../Images/icon-lock.png" alt="" class="w-[50%]">
+            <img src="./public/Images/icon-lock.png" alt="" class="w-[50%]">
           </span>
         </div>
         <div class="text-[11px] text-[#f6f6f6] leading-[15px] font-[700]">${itemEpisode.title}</div>
@@ -182,12 +182,12 @@ let comments = async () => {
     <div class='w-[335px] flex justify-between items-center mb-[16px]'>
       <div class='flex '>
         <div class='ml-[4px]'>
-          <img src="../Images/Comments/user.webp" class='!w-[24px] !h-[24px]' />
+          <img src="./public/Images/Comments/user.webp" class='!w-[24px] !h-[24px]' />
         </div>
         <h1 class='font-[ffont] text-[12px] text-[#ece6e6] content-center'> ${item.name}</h1>
       </div>
       <div>
-        <img src="../Images/Comments/virgol.webp" class='!w-[40px] !h-[34px]' />
+        <img src="./public/Images/Comments/virgol.webp" class='!w-[40px] !h-[34px]' />
       </div>
     </div>
     <div class='flex !h-[75px] mb-[16px] font-[ffont] text-[11px] text-[white] leading-relaxed'>
