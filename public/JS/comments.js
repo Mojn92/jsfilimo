@@ -1,9 +1,9 @@
 // ----------------comments---------------------------
-import createSlider from "./t1Slider";
+import createSlider from "./public/JS/t1Slider.js";
 let comments = async () => {
   let commentsItem = "";
   try {
-    let data = await fetch("../../db.json");
+    let data = await fetch("./db.json");
     let res = await data.json();
 
     commentsItem = res.Comments.map((item) => {

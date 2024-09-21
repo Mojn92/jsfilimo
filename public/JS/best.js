@@ -1,4 +1,4 @@
-import createSlider from "./t1Slider";
+import createSlider from "./public/JS/t1Slider.js";
 
 let best = async () => {
   let seriesButton = document.querySelector("#series-button");
@@ -8,7 +8,7 @@ let best = async () => {
   let bestofGenre = "";
 
   try {
-    let data = await fetch("../../db.json");
+    let data = await fetch("./db.json");
     let res = await data.json();
 
     function updateDetail(items, element, type, index) {

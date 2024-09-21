@@ -2,7 +2,7 @@ let heroImages = async () => {
   let bgDiv = document.querySelector(".bg-div");
   let heroImg = [];
   try {
-    let data = await fetch("../../db.json");
+    let data = await fetch("./db.json");
     let res = await data.json();
 
     heroImg = res.heroImage.map((item) => item.src);
